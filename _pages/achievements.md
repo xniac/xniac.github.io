@@ -1,6 +1,6 @@
 ---
 permalink: /achievements/
-title: "Achievements"
+title: ""
 author_profile: true
 redirect_from:
   - /achievements.html
@@ -20,12 +20,12 @@ Third Prize
 
 ## Acadeimic Forum
 
-the 6th ASPIRE Undergraduate Research Academy (UGRA)
+[the 6th ASPIRE Undergraduate Research Academy (UGRA)](http://www.ipo.titech.ac.jp/aspire/2019_ASPIRE_UGRA_report.pdf)
 <small><br>*Korea Advanced Institute of Science and Technology, Daejeon, Korea*</small>
 <small><br>Theme: “Better Living: Innovations and Technologies to Improve Lives”</small>
-<br><img src="\images\KAIST.jpg"
-    alt="KAIST Forum Photo"
-    width="300" a=""
+<br><img src = "\images\KAIST.jpg"
+    alt = "KAIST Forum Photo"
+    width = "300" a=""
     />
 
 - Highlighted research topics shared among Undergraduate representatives among top univeristies such as Tsinghua, TokyoTech, NTU and KAIST.
