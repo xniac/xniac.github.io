@@ -14,7 +14,7 @@ Entries: [SecureNet: A Novel Digital Solution to On-campus Security](\files\EP01
 *Ni Xiaoyuan\*, Yu Xinying, Xiang Yaohong, Song Sizhe*
 <br><img src = "\images\Demopage.png"
     alt = "SecureNet Demo Page"
-    width = "300" a=""
+    height = "300" a=""
     />
 
 - Led a business team of 4 to commercialize pedestrian identification and tracking technology for campus security.

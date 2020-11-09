@@ -16,10 +16,10 @@ author_profile: true
 
 <br><img src = "\images\marologo.svg"
     alt = "Maro Logo"
-    height = "100" a=""
+    width = "300" a=""
     />
 **Multi-Agent Resource Optimization (MARO) platform**<br>
-[github](https://github.com/microsoft/maro)<br>
+[\[github\]](https://github.com/microsoft/maro)<br>
 *Collaborator
 
 - Applied Multi-Agent Reinforcement Learning (MARL) to solve real-world combinatorial optimization problems: sharing bike repositioning and vitural machine allocation.
