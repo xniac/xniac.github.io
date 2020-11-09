@@ -5,7 +5,8 @@ permalink: /researches/
 author_profile: true
 ---
 
-**Few Shot Action Recognition**<br>
+Few Shot Action Recognition
+======
 <br><img src = "\images\FS_Architecture.png"
     alt = "FS Architecture"
     height = "300" a=""
@@ -14,7 +15,8 @@ author_profile: true
 -	Involved the multi-head attention mechanism to extract the feature of an unseen class based on the given query videos, and recursively refined the feature of the query videos. This refinement extracts more representative features and allows more effective classification.
 - Experiment result outperformed the state-of-the-art action classification (without few-shot learning) on a set of published datasets over a margin of about 5%.
 
-**Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations**<br>
+Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations
+======
 <br><img src = "\images\EncGat_Architecture.jpg"
     alt = "EncGat Architecture"
     height = "300" a=""
@@ -27,7 +29,8 @@ author_profile: true
     alt = "Maro Logo"
     width = "300" a=""
     /><br>
-**Multi-Agent Resource Optimization (MARO) platform**<br>
+Multi-Agent Resource Optimization (MARO) platform
+======
 [\[github\]](https://github.com/microsoft/maro)<br>
 *Collaborator
 
