@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Research Highlights"
 permalink: /researches/
 author_profile: true
 ---
@@ -29,10 +28,15 @@ Cooperative Policy Learning with Pre-trained Heterogeneous Observation Represent
     alt = "Maro Logo"
     width = "300" a=""
     /><br>
+
 Multi-Agent Resource Optimization (MARO) platform
 ======
 [\[github\]](https://github.com/microsoft/maro)<br>
 *Collaborator
+<br><img src = "\images\maro_overview.svg"
+    alt = "MARO Overview"
+    height = "300" a=""
+    />
 
 - Applied Multi-Agent Reinforcement Learning (MARL) to solve real-world combinatorial optimization problems: sharing bike repositioning and vitural machine allocation.
 - Realized the Citibike and DCSim scenarios by building environment simulators with real-world data traces (from Azure and CitiBike).
