@@ -25,7 +25,7 @@ Cooperative Policy Learning with Pre-trained Heterogeneous Observation Represent
 - Introduce the pre-training with a local actor-critic algorithm for cooperative policy learning, through which each agent gain intelligence through selfish policy learning. And the pre-trained agents will be further trained for cooperative policy learning.
 - Reduced the bike shortage rate by over 98% in CitiBike scenarios, outperformed the results of widely applied operational research solutions (76%); decreased the repositioning workload by about 40% and thus improved the repositioning efficiency.
 
-<br><img src = "\images\marologo.svg"
+<br><img src = "\images\marologo.jpg"
     alt = "Maro Logo"
     width = "300" a=""
     /><br>
