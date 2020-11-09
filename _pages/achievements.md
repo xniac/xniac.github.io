@@ -8,11 +8,14 @@ redirect_from:
 
 ## Innovation Contest
 
-[the 6th Hong Kong University Student Innovation and Entrepreneurship Competition](https://www.hkchallengeplus.com/wp-content/uploads/2020/10/Awardee-List.pdf)<br>
-Third Prize
-
-[SecureNet: A Novel Digital Solution to On-campus Security](\files\EP017_BP.pdf) <br>
+the 6th Hong Kong University Student Innovation and Entrepreneurship Competition<br>
+Third Prize<br>
+Entries: [SecureNet: A Novel Digital Solution to On-campus Security](\files\EP017_BP.pdf)<br>
 *Ni Xiaoyuan\*, Yu Xinying, Xiang Yaohong, Song Sizhe*
+<br><img src = "\images\Demopage.png"
+    alt = "SecureNet Demo Page"
+    width = "300" a=""
+    />
 
 - Led a business team of 4 to commercialize pedestrian identification and tracking technology for campus security.
 - Deployed a prototype in trajectories tracking and analysis and launched experiments on HKUST and FDU campus.
@@ -21,8 +24,8 @@ Third Prize
 ## Acadeimic Forum
 
 [the 6th ASPIRE Undergraduate Research Academy (UGRA)](http://www.ipo.titech.ac.jp/aspire/2019_ASPIRE_UGRA_report.pdf)
-<small><br>*Korea Advanced Institute of Science and Technology, Daejeon, Korea*</small>
-<small><br>Theme: “Better Living: Innovations and Technologies to Improve Lives”</small>
+<br>*Korea Advanced Institute of Science and Technology, Daejeon, Korea*
+<br>Theme: “Better Living: Innovations and Technologies to Improve Lives”
 <br><img src = "\images\KAIST.jpg"
     alt = "KAIST Forum Photo"
     width = "300" a=""
