@@ -5,7 +5,7 @@ permalink: /researches/
 author_profile: true
 ---
 
-Few Shot Action Recognition
+Semi-supervised Few Shot Action Recognition
 ======
 <br><img src = "\images\FS_Architecture.png"
     alt = "FS Architecture"
@@ -15,7 +15,7 @@ Few Shot Action Recognition
 -	Involved the multi-head attention mechanism to extract the feature of an unseen class based on the given query videos, and recursively refined the feature of the query videos. This refinement extracts more representative features and allows more effective classification.
 - Experiment result outperformed the state-of-the-art action classification (without few-shot learning) on a set of published datasets over a margin of about 5%.
 
-Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations
+Multi-Agent Sharing Bike Repositioning
 ======
 <br><img src = "\images\EncGat_Architecture.jpg"
     alt = "EncGat Architecture"
