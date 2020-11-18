@@ -17,7 +17,7 @@ He has rich experience in both the academics and the industry field. He conducte
 Research:
 ======
 <div>
-  <div style="width:20%; margin:5%">
+  <div style="width:40%; margin:10%">
   <img src="\images\FS_Architecture.png"
     alt="Semi-Supervised Few-shot Atomic Action Recognition Model"
     class="publogo img-fluid float-left rounded g" a="" align="left"/></div>
