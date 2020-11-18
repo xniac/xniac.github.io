@@ -7,6 +7,11 @@ author_profile: true
 
 Semi-supervised Few Shot Action Recognition
 ======
+<span class="links">
+  <a href="https://arxiv.org/abs/2011.08410">[Paper]</a>
+  <a href="https://xniac.github.io/home/fsaa" target="_blank">[Website]</a>
+  <a href="https://github.com/xniac/Few-shot-action-recognition">[GitHub]</a>
+  </span>
 <br><img src = "\images\FS_Architecture.png"
     alt = "FS Architecture"
     height = "300" a=""
