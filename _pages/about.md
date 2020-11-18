@@ -22,7 +22,7 @@ Research:
     alt="Semi-Supervised Few-shot Atomic Action Recognition Model"
     class="publogo img-fluid float-left rounded g" a="" align="left"/></div>
 
-  <p align="left"><strong><a href="https://sausage-song.github.io/home/files/FSAA.pdf" target="_blank">
+  <p align="left"><strong><a href="https://xniac.github.io/fsaa" target="_blank">
   Semi-Supervised Few-shot Atomic Action Recognition</a></strong>
   <!-- <span class="badge badge-danger">New!</span> -->
   <br>
@@ -30,7 +30,7 @@ Research:
   <em>Tech Report.</em> <br>
   <span class="links">
   <a href="https://arxiv.org/abs/2011.08410">[Paper]</a>
-  <a href="https://xniac.github.io/home/fsaa" target="_blank">[Website]</a>
+  <a href="https://xniac.github.io/fsaa" target="_blank">[Website]</a>
   <a href="https://github.com/xniac/Few-shot-action-recognition">[GitHub]</a>
   </span> </p>
 </div>
