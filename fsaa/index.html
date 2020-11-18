@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Basic Page Needs
+         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta charset="utf-8">
+    <title>Semi-Supervised Few-Shot Atomic Action Recognition</title>
+    <meta name="description" content="Project Website of FSAA">
+    <meta name="author" content="Sizhe Song">
+
+    <!-- Mobile Specific Metas
+         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- FONT
+         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+    <!-- CSS
+         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="./css/normalize.css">
+    <link rel="stylesheet" href="./css/skeleton.css">
+    <link rel="stylesheet" href="./css/footable.standalone.min.css">
+
+    <!-- Google icon -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  </head>
+  <body>
+
+    <!-- Primary Page Layout
+         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <div class="container">
+      <h4 style="padding-top:20px; text-align:center">Semi-Supervised Few-Shot Atomic Action Recognition</h4>
+      <p align="center", style="margin-bottom:12px;">
+        <sup>&#10013</sup><span class="simple" >Xiaoyuan Ni</a><sup>1</sup>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <sup>&#10013</sup><span class="simple" >Sizhe Song</a><sup>1</sup>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span class="simple" >Yu-Wing Tai</a><sup>2</sup>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span class="simple" >Chi-Keung Tang</a><sup>1</sup>
+      </p>
+
+      <p align="center" style="margin-bottom:20px;">
+        <sup>1</sup>The Hong Kong University of Science and Technology
+        <span style="display:inline-block; width: 32px"></span>
+        <sup>2</sup>Kuaishou
+        <span style="display:inline-block; width: 32px"></span>
+        <sup>&#10013</sup>Equal Contribution<br>
+      </p>
+
+
+      <!-- <figure>
+        <img src="images/objects_teaser.png" style="width:100%"></img>
+        <br>
+      </figure>
+      <div class="caption">
+        <b>Sample objects from our ScanObjectNN dataset.</b> The dataset
+        contains ~15,000 objects that are categorized into 15 categories with
+        2902 unique object instances.  The raw objects are represented by a list
+        of points with global and local coordinates, normals, colors attributes
+        and semantic labels. We also provide part annotations, which to the best
+        of our knowledge is the first on real-world data.
+      </div>
+
+      <br> -->
+
+      <div id="teaser" class="container" style="width:100%; margin:0; padding:0">
+        <h5>Abstract</h5>
+        <p align="justify">
+          Despite excellent progress has been made, the performance on action recognition still heavily relies on specific datasets, which are difficult to extend new action classes due to labor-intensive labeling. Moreover, the high diversity in Spatio-temporal appearance requires robust and representative action feature aggregation and attention. To address the above issues, we focus on atomic actions and propose a novel model for semi-supervised few-shot atomic action recognition. Our model features unsupervised and contrastive video embedding, loose action alignment, multi-head feature comparison, and attention-based aggregation, together of which enables action recognition with only a few training examples through extracting more representative features and allowing flexibility in spatial and temporal alignment and variations in the action. Experiments show that our model can attain high accuracy on representative atomic action datasets outperforming their respective state-of-the-art classification accuracy in full supervision setting.
+          <br>
+          <br>
+        </p>
+      </div>
+
+      <div class="container" style="width:100%; margin:0; padding:0">
+        <h5>Model</h5>
+        <figure>
+          <img src="images/FSAA_model.png" style="width:100%"></img>
+          
+        </figure>
+        <div class="caption">
+          <p align="justify"><b>Model Architecture.</b> Our learning strategies are divided into two parts: 1) train an encoder with unsupervised learning; 2) train the action classification module with supervised learning. Regarding the encoder our model provides fine-grained spatial and temporal video processing with high length flexibility, which embeds the video feature and temporally combines the features with TCN. In terms of classification module, our models provides attention pooling and compares the multi-head relation. Finally, the CTC and MSE loss enables our model for time-invariant few shot classification training.</p>
+        </div>
+
+        <br>
+      </div>
+
+      <div class="container" style="width:100%; margin:0; padding:0">
+        <div class="container" style="float: left; width:35%; margin:; padding:0">
+          <figure><img src="images/bg_sub.png" style="width:100%"></img></figure>
+        </div>
+
+        <div class="container" style="float: right; width:59%; margin:0; padding:0">
+          <figure><img src="images/preprocessing.png" style="width:100%"></img></figure>
+          <figure><img src="images/image_aug.png" style="width:100%"></img></figure>
+        </div>
+      </div>
+      <div class="caption" style="width:100%; margin:0; padding:0">
+        <p align="justify"><b>Action Augmentation.</b> We use three action augmentation methods in this project: 1) Background Subtraction (left); 2) Human-centric (top right); 3) Usual Image Augmentation (bottom right). The augmented action and original action are used to train an encoder with unsupervised learning. It helps the encoder to focus on foreground movement and human bodies.</p>
+        <br>
+      </div>
+
+      <div class="container" style="width:100%; margin:0; padding:0">
+        <div class="container" style="float: left; width:47%; margin:20; padding:0">
+          <figure>
+            <img src="images/attention.png" style="width:100%"></img>
+          </figure>
+          <div class="caption">
+            <p align="justify"><b>Attention Pooling</b> is a module to compress and refine support features. Different with traditional self-attention, we introduce query feature into the pooling procedure to generate "customized" support for each query. Also, we can simply swap support and query so that this module can be used to refine query feature, which we call mutual refinement.</p>
+          </div>
+        </div>
+
+        <div class="container" style="float: right; width:50%; margin:20; padding:0">
+          <figure>
+            <img src="images/relation.png" style="width:100%"></img>
+          </figure>
+          <div class="caption">
+            <p align="justify"><b>Multi-head Relation Network</b> is a module to compute the similarity between supports and queries. The final score is an average of two, one from vector product and another from a Conv1D. The first one focuses more on localized feature, the second one takes a comprehensive analysis of the entire feature.</p>
+          </div>
+        </div>
+      </div>
+
+      <br>
+
+      <div class="container" style="width:100%; margin:0; padding:0">
+        <p align="justify">More details of our model structure can be found in the <a href="https://sausage-song.github.io/home/files/FSAA.pdf">paper</a> or in the <a href="https://github.com/Sausage-SONG/Few-shot-action-recognition">codes</a>.</p>
+      </div>
+
+    
+    <div class="section">
+      <h5>Experiment</h5>
+        <div class="container" style="width:100%; margin:0; padding:0">
+          <div class="container" style="width:47%; float:left; margin:0; padding:0">
+            <figure><img src="images/result.png" style="width:100%"></img></figure>
+            <div class="caption">
+              <p align="justify"><b>Accuracy (%)</b> of our model compared with other state-of-the-art methods on three datasets, which shows that our few-shotmodel has a leading performance compared with the state-of-the-art methods on all the three datasets trained in fullsupervision. Note that our model is few-shot which has ac-cess to only very limited amount of data.</p>
+            </div>
+          </div>
+
+          <div class="container" style="width:47%; float:right; margin:0; padding:0">
+            <figure><img src="images/ablation.png" style="width:100%"></img></figure>
+            <div class="caption">
+              <p align="justify"><b>Ablaton Study.</b> The unsupervised action encoder may experience relatively less accuracy drop in human-centric datasets such as HAA where the action features are better aligned. However, on more general datasets, the human-centric augmentation shows greater importance and the ablation accuracy drops significantly on mini-MIT. Besides, the performance on HAA and Gym288 drops less compared with that on mini-MIT, indicating our model's better representativeness over a general set of action data.</p>
+            </div>
+          </div>  
+        </div>  
+      <br>
+    </div>
+
+    <br>
+</div>
+
+    <!-- End Document
+         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  </body>
+</html>

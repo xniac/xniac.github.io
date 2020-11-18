@@ -13,3 +13,24 @@ Biograph
 Xiaoyuan NI is a fourth-year undergraduate student majoring in Computer Science at the Hong Kong University of Science and Technology (HKUST). He is a passionate researcher in the fields of Machine Learning (ML) and Computer Vision (CV). His research interests include reinforcement learning and video recognition, and devoted to AI applications in the real-world context.
 
 He has rich experience in both the academics and the industry field. He conducted researches in few-shot action recognition under the supervision of [Prof. Chi-keung Tang](https://www.cse.ust.hk/admin/people/faculty/profile/cktang) and conveyed the UROP Program in pedestrian tracking and human reidentification under supervision of [Prof. Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/). Besides, he worked as a research intern in Microsoft Research Asia (MSRA) and researched the reinforcement learning application in Combinatorial Optimization problems. He worked as a software development intern at Tencent for quality assurance and Fesco Adecco for billing system development.
+
+Research:
+======
+<div>
+  <div style="width:20%; margin:5%">
+  <img src="\images\FS_Architecture.png"
+    alt="Semi-Supervised Few-shot Atomic Action Recognition Model"
+    class="publogo img-fluid float-left rounded g" a="" align="left"/></div>
+
+  <p align="left"><strong><a href="https://sausage-song.github.io/home/files/FSAA.pdf" target="_blank">
+  Semi-Supervised Few-shot Atomic Action Recognition</a></strong>
+  <!-- <span class="badge badge-danger">New!</span> -->
+  <br>
+  <b> Xiaoyuan Ni*</b>, Sizhe Song*, Yu-Wing Tai, Chi-Keung Tang <br>
+  <em>Tech Report.</em> <br>
+  <span class="links">
+  <a href="https://arxiv.org/abs/2011.08410">[Paper]</a>
+  <a href="https://xniac.github.io/home/fsaa" target="_blank">[Website]</a>
+  <a href="https://github.com/xniac/Few-shot-action-recognition">[GitHub]</a>
+  </span> </p>
+</div>
