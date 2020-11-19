@@ -7,7 +7,7 @@ author_profile: true
 
 Artrmis: A Mood Detection and Communication Device
 ======
-<br><img src = "\images\ielf_combine.png"
+<br><img src = "\images\ielm_combine.png"
     alt = "Artrmis display"
     width = "60%" a=""
     />
