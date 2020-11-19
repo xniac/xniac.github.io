@@ -9,18 +9,20 @@ Artrmis: A Mood Detection and Communication Device
 ======
 <a href=" https://video.ust.hk/Watch.aspx?Video=148E0CFDBC0670B5">[Design Concept]</a><br>
 <div style="width:100%; height:100px">
-  <a style="width:35%; float:left"><img src = "\images\ielm_poster.jpg"
+  <a style="width:34%; float:left"><img src = "\images\ielm_poster.jpg"
     alt = "Artrmis poster"
     a="" align="left"/></a> 
-  <a style="width:65%; float:left"><img src = "\images\ielm_display.jpg"
+  <a style="width:66%; float:left"><img src = "\images\ielm_display.jpg"
     alt = "Artrmis poster"
     a="" align="left"
     /></a>
-</div style="width:100%">
-<div><ul>
+</div>
+<!-- <div><ul>
 <li> Designed and built the mood detection and communication device, to strengthen the parent-children bounding at long distance. The team consists of engineers from HKUST and designers from Chinese Art Academy.</li>
 <li> Design: I combined the moon phase with the changing mood of people, and used moon's metaphor as 'family union', hoping to strength the communication and bounding within each family. </li>
 <li> Technology: I integrated the facial expression detection to detect the mood of a person, and use socket transmission to realize the mood exchange.</li>
-</ul></div>
-
+</ul></div> -->
+- Designed and built the mood detection and communication device, to strengthen the parent-children bounding at long distance. The team consists of engineers from HKUST and designers from Chinese Art Academy.</li>
+- Design: I combined the moon phase with the changing mood of people, and used moon's metaphor as 'family union', hoping to strength the communication and bounding within each family. </li>
+- Technology: I integrated the facial expression detection to detect the mood of a person, and use socket transmission to realize the mood exchange.</li>
 <!-- TODO:[course scraper] -->
