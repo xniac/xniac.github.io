@@ -12,9 +12,10 @@ Semi-supervised Few Shot Action Recognition
   <a href="https://xniac.github.io/fsaa" target="_blank">[Website]</a>
   <a href="https://github.com/xniac/Few-shot-action-recognition">[GitHub]</a>
   </span>
+  <br>
 <br><img src = "\images\FS_Architecture.png"
     alt = "FS Architecture"
-    height = "300" a=""
+    height = "200" a=""
     />
 - Adopted sliding windows for video segmentation and connectionist temporal classification (CTC) loss to train the video embedding with relatively loose alignment, providing accurate video embedding and more robust action recognition; developed a multi-head relational network to compare the video similarity, laying emphasis on both the entire action similarity and local similarity of action clips.
 -	Involved the multi-head attention mechanism to extract the feature of an unseen class based on the given query videos, and recursively refined the feature of the query videos. This refinement extracts more representative features and allows more effective classification.
