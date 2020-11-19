@@ -8,14 +8,14 @@ author_profile: true
 Artrmis: A Mood Detection and Communication Device
 ======
 <a href=" https://video.ust.hk/Watch.aspx?Video=148E0CFDBC0670B5">[Design Concept]</a><br>
-<div>
+<div class="container">
 <a><img src = "\images\ielm_poster.jpg"
     alt = "Artrmis poster"
-    height = "100px" a=""
+    width = "40%" a=""
     /></a>
 <a><img src = "\images\ielm_display.jpg"
     alt = "Artrmis poster"
-    height = "100px" a=""
+    width = "60%" a=""
     /></a>
 <div>
 <!-- <span>
