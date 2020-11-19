@@ -17,12 +17,12 @@ Artrmis: A Mood Detection and Communication Device
     a="" align="left"
     /></a>
 </div>
-<!-- <div><ul>
+<div style="width:100%"><ul>
 <li> Designed and built the mood detection and communication device, to strengthen the parent-children bounding at long distance. The team consists of engineers from HKUST and designers from Chinese Art Academy.</li>
 <li> Design: I combined the moon phase with the changing mood of people, and used moon's metaphor as 'family union', hoping to strength the communication and bounding within each family. </li>
 <li> Technology: I integrated the facial expression detection to detect the mood of a person, and use socket transmission to realize the mood exchange.</li>
-</ul></div> -->
-- Designed and built the mood detection and communication device, to strengthen the parent-children bounding at long distance. The team consists of engineers from HKUST and designers from Chinese Art Academy.</li>
-- Design: I combined the moon phase with the changing mood of people, and used moon's metaphor as 'family union', hoping to strength the communication and bounding within each family. </li>
-- Technology: I integrated the facial expression detection to detect the mood of a person, and use socket transmission to realize the mood exchange.</li>
+</ul></div>
+<!-- - Designed and built the mood detection and communication device, to strengthen the parent-children bounding at long distance. The team consists of engineers from HKUST and designers from Chinese Art Academy.
+- Design: I combined the moon phase with the changing mood of people, and used moon's metaphor as 'family union', hoping to strength the communication and bounding within each family. 
+- Technology: I integrated the facial expression detection to detect the mood of a person, and use socket transmission to realize the mood exchange. -->
 <!-- TODO:[course scraper] -->
