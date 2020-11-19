@@ -13,13 +13,13 @@ Artrmis: A Mood Detection and Communication Device
 <td>
 <a><img src = "\images\ielm_poster.jpg"
     alt = "Artrmis poster"
-    height = "100px" a=""
+    height = "50px" a=""
     /></a>
 </td>
 <td>
 <a><img src = "\images\ielm_display.jpg"
     alt = "Artrmis poster"
-    height = "100px" a=""
+    height = "50px" a=""
     /></a>
 </td>
 </tr>
