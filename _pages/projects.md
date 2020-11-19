@@ -17,7 +17,7 @@ Artrmis: A Mood Detection and Communication Device
         alt = "Artrmis poster"
         width = "60%" a=""
         />
-<div>
+</div>
 
 - Designed and built the mood detection and communication device, to strengthen the parent-children bounding at long distance. The team consists of engineers from HKUST and designers from Chinese Art Academy.
 - Design: I combined the moon phase with the changing mood of people, and used moon's metaphor as 'family union', hoping to strength the communication and bounding within each family. 
