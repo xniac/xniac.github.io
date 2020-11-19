@@ -12,12 +12,12 @@ Artrmis: A Mood Detection and Communication Device
   <div style="width:35%; margin:5%">
   <img src = "\images\ielm_poster.jpg"
     alt = "Artrmis poster"
-    class="publogo img-fluid float-left rounded g" a="" align="left"/></div>
-   <div style="width:55%; margin:5%"> 
-    <img src = "\images\ielm_display.jpg"
-        alt = "Artrmis poster"
-        class = "publogo img-fluid float-left rounded g" a="" align="right"
-        /></div>
+    a="" align="left"/></div>
+  <div style="width:55%; margin:5%"> 
+  <img src = "\images\ielm_display.jpg"
+    alt = "Artrmis poster"
+    a="" align="right"
+    /></div>
 </div>
 <br>
 - Designed and built the mood detection and communication device, to strengthen the parent-children bounding at long distance. The team consists of engineers from HKUST and designers from Chinese Art Academy.
