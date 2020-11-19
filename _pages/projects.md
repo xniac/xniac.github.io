@@ -8,15 +8,15 @@ author_profile: true
 Artrmis: A Mood Detection and Communication Device
 ======
 <a href=" https://video.ust.hk/Watch.aspx?Video=148E0CFDBC0670B5">[Design Concept]</a><br>
-<div style="width:100%; height:100px;">
-  <a style="width:40%; height:100px; float:left"><img src = "\images\ielm_poster.jpg"
+<div style="width:100%; height:100px">
+  <a style="height:100px; float:left"><img src = "\images\ielm_poster.jpg"
     alt = "Artrmis poster"
     a="" align="left"/></a> 
-  <a style="width:50%; height:100px; float:left"><img src = "\images\ielm_display.jpg"
+  <a style="height:100px; float:left"><img src = "\images\ielm_display.jpg"
     alt = "Artrmis poster"
     a="" align="left"
     /></a>
-</div>
+</div style="width:100%">
 <div><ul>
 <li> Designed and built the mood detection and communication device, to strengthen the parent-children bounding at long distance. The team consists of engineers from HKUST and designers from Chinese Art Academy.</li>
 <li> Design: I combined the moon phase with the changing mood of people, and used moon's metaphor as 'family union', hoping to strength the communication and bounding within each family. </li>
