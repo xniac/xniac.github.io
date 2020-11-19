@@ -8,16 +8,14 @@ author_profile: true
 Artrmis: A Mood Detection and Communication Device
 ======
 <a href=" https://video.ust.hk/Watch.aspx?Video=148E0CFDBC0670B5">[Design Concept]</a><br>
-<div>
-  <div style="width:35%; margin:5%">
-  <img src = "\images\ielm_poster.jpg"
+<div style="width:100%;">
+  <a style="width:39%; float:left"><img src = "\images\ielm_poster.jpg"
     alt = "Artrmis poster"
-    a="" align="left"/></div>
-  <div style="width:55%; margin:5%"> 
-  <img src = "\images\ielm_display.jpg"
+    a="" align="left"/></a> 
+  <a style="width:59%; float:left"><img src = "\images\ielm_display.jpg"
     alt = "Artrmis poster"
-    a="" align="right"
-    /></div>
+    a="" align="left"
+    /></a>
 </div>
 <br>
 - Designed and built the mood detection and communication device, to strengthen the parent-children bounding at long distance. The team consists of engineers from HKUST and designers from Chinese Art Academy.
