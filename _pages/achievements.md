@@ -6,9 +6,9 @@ redirect_from:
   - /achievements.html
 ---
 
-## Innovation Contest
-
-the 6th Hong Kong University Student Innovation and Entrepreneurship Competition<br>
+Innovation Contest
+======
+**the 6th Hong Kong University Student Innovation and Entrepreneurship Competition**<br>
 Third Prize<br>
 Entries: [SecureNet: A Novel Digital Solution to On-campus Security](\files\EP017_BP.pdf)<br>
 *Ni Xiaoyuan\*, Yu Xinying, Xiang Yaohong, Song Sizhe*
@@ -21,9 +21,9 @@ Entries: [SecureNet: A Novel Digital Solution to On-campus Security](\files\EP01
 - Deployed a prototype in trajectories tracking and analysis and launched experiments on HKUST and FDU campus.
 - Visualized the real-time human density and generalize the heat map.
 
-## Academic Forum
-
-[the 6th ASPIRE Undergraduate Research Academy (UGRA)](http://www.ipo.titech.ac.jp/aspire/2019_ASPIRE_UGRA_report.pdf)
+Academic Forum
+======
+**the 6th ASPIRE Undergraduate Research Academy (UGRA)** [report](http://www.ipo.titech.ac.jp/aspire/2019_ASPIRE_UGRA_report.pdf)
 <br>*Korea Advanced Institute of Science and Technology, Daejeon, Korea*
 <br>Theme: “Better Living: Innovations and Technologies to Improve Lives”
 <br><img src = "\images\KAIST.jpg"
