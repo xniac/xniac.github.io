@@ -21,7 +21,7 @@ redirect_from:
   - AEARU STEM Summer Camp
   - Curriculum: Computational Game Theory
 
-**Honors and Awards*<br>
+**Honors and Awards**<br>
   - Scholarship:
     <br>&emsp; HKSAR Government Scholarship Fund – Reaching Out Award (ROA) 2019/20
     <br>&emsp; Overseas Learning Experience (OLE) Scholarship 2019/20
