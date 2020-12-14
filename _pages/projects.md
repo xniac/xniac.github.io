@@ -7,7 +7,7 @@ author_profile: true
 
 Video Analysis and Indoor Sensing
 =====
-*Under Supervision by [Prof. Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/), Sept. 2018 - Sept.2019*
+*Under Supervision by [Prof. Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/), Sept. 2018 - Sept.2019*<br>
 <span class="links">
   <a href="https://drive.google.com/file/d/1-zdO8-gtm-4b10xf6dP9_5PKKEQROYX_/view?usp=sharing
 ">[Progress Report 1]</a>
