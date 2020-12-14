@@ -28,7 +28,7 @@ Academic Forum
 <br>Theme: “Better Living: Innovations and Technologies to Improve Lives”
 <br><img src = "\images\KAIST.png"
     alt = "KAIST Forum Photo"
-    width = "300" a=""
+    height = "300" a=""
     />
 
 - Highlighted research topics shared among Undergraduate representatives among top universities such as Tsinghua, TokyoTech, NTU, and KAIST.
