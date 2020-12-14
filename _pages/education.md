@@ -37,7 +37,7 @@ redirect_from:
   - Prizes:
     <br>&emsp; 3rd Prize - the 6th Hong Kong University Student Innovation and Entrepreneurship Competition
     <br>&emsp; 2nd Place - Hong Kong Area Competition for Global Grand Challenges Summit (GGCS)
-    <br>&emsp;2nd Prize - 2019 "Oceanwide Cup" Internet + College Students Entrepreneurship Competition
+    <br>&emsp; 2nd Prize - 2019 "Oceanwide Cup" Internet + College Students Entrepreneurship Competition
 
   - Academic Forum:
     <br>&emsp; the 6th ASPIRE Undergraduate Research Academy (UGRA)
