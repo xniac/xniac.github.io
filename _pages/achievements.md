@@ -11,7 +11,7 @@ Innovation Contest
 **the 6th Hong Kong University Student Innovation and Entrepreneurship Competition**<br>
 Third Prize<br>
 Entries: [SecureNet: A Novel Digital Solution to On-campus Security](\files\EP017_BP.pdf)<br>
-*Ni Xiaoyuan\*, Yu Xinying, Xiang Yaohong, Song Sizhe*
+***Ni Xiaoyuan*** *, Yu Xinying, Xiang Yaohong, Song Sizhe*
 <br><img src = "\images\Demopage.png"
     alt = "SecureNet Demo Page"
     height = "300" a=""
@@ -26,7 +26,7 @@ Academic Forum
 **the 6th ASPIRE Undergraduate Research Academy (UGRA)** [report](http://www.ipo.titech.ac.jp/aspire/2019_ASPIRE_UGRA_report.pdf)
 <br>*Korea Advanced Institute of Science and Technology, Daejeon, Korea*
 <br>Theme: “Better Living: Innovations and Technologies to Improve Lives”
-<br><img src = "\images\KAIST.jpg"
+<br><img src = "\images\KAIST.png"
     alt = "KAIST Forum Photo"
     width = "300" a=""
     />
