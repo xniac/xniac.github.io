@@ -18,7 +18,7 @@ Research:
 ======
 <div>
   <div style="width:40%; margin:5%">
-  <img src="\images\EncGat_Architecture.jpg"
+  <img src="\images\Research1_img.png"
     alt="Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations"
     class="publogo img-fluid float-left rounded g" a="" align="left"/></div>
 
