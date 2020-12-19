@@ -14,7 +14,7 @@ Xiaoyuan NI is a fourth-year undergraduate student majoring in Computer Science 
 
 He has rich experience in both the academics and the industry field. He conducted researches in few-shot action recognition under the supervision of [Prof. Chi-Keung Tang](https://www.cse.ust.hk/admin/people/faculty/profile/cktang) and conveyed the UROP Program in pedestrian tracking and human reidentification under the supervision of [Prof. Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/). Besides, he worked as a research intern in Microsoft Research Asia (MSRA) and researched the reinforcement learning application in Combinatorial Optimization problems. He worked as a software development intern at Tencent for quality assurance and Fesco Adecco for billing system development.
 
-Research:
+Research
 ======
 <div>
   <div style="width:40%; margin-right:7%">
