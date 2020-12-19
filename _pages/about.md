@@ -17,11 +17,12 @@ He has rich experience in both the academics and the industry field. He conducte
 Research:
 ======
 <div>
-  <div style="width:40%; margin:5%">
+  <div style="width:40%; padding:5%">
   <img src="\images\Research1_img.png"
     alt="Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations"
     class="publogo img-fluid float-left rounded g" a="" align="left"/></div>
 
+  <div class="media-body">
   <p align="left"><strong><a href="https://xniac.github.io/encgat" target="_blank">
   Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations</a></strong>
   <!-- <span class="badge badge-danger">New!</span> -->
@@ -31,12 +32,14 @@ Research:
   <a href="https://xniac.github.io/encgat" target="_blank">[Project Page]</a>
   <a href="https://github.com/microsoft/maro">[GitHub]</a>
   </span> </p>
+  </div>
   <br>
   <div style="width:40%; margin:5%">
   <img src="\images\FS_Architecture.png"
     alt="Semi-Supervised Few-shot Atomic Action Recognition Model"
     class="publogo img-fluid float-left rounded g" a="" align="left"/></div>
 
+  <div class="media-body">
   <p align="left"><strong><a href="https://xniac.github.io/fsaa" target="_blank">
   Semi-Supervised Few-shot Atomic Action Recognition</a></strong>
   <!-- <span class="badge badge-danger">New!</span> -->
@@ -48,4 +51,5 @@ Research:
   <a href="https://xniac.github.io/fsaa" target="_blank">[Project Page]</a>
   <a href="https://github.com/xniac/Few-shot-action-recognition">[GitHub]</a>
   </span> </p>
+  </div>
 </div>
