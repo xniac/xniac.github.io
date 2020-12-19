@@ -22,12 +22,13 @@ Research:
     alt="Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations"
     class="publogo img-fluid float-left rounded g" a="" align="left"/></div>
 
-  <p align="left"><strong><a href="https://aamas2021.soton.ac.uk/programme/accepted-papers/" target="_blank">
+  <p align="left"><strong><a href="https://xniac.github.io/encgat" target="_blank">
   Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations</a></strong>
   <!-- <span class="badge badge-danger">New!</span> -->
   <br> Wenlei Shi, Xinran Wei, Jia Zhang, <b>Xiaoyuan Ni</b>, Arthur Jiang, Jiang Bian and Tie-Yan Liu <br>
   <em> Full paper and oral accepted, AAMAS-2021</em> <br>
   <span class="links">
+  <a href="https://xniac.github.io/encgat" target="_blank">[Project Page]</a>
   <a href="https://github.com/microsoft/maro">[GitHub]</a>
   </span> </p>
   <br>
