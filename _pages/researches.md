@@ -19,12 +19,12 @@ Semi-supervised Few Shot Action Recognition
     />
 - Adopted sliding windows for video segmentation and connectionist temporal classification (CTC) loss to train the video embedding with relatively loose alignment, providing accurate video embedding and more robust action recognition; developed a multi-head relational network to compare the video similarity, laying emphasis on both the entire action similarity and local similarity of action clips.
 -	Involved the multi-head attention mechanism to extract the feature of an unseen class based on the given query videos and recursively refined the feature of the query videos. This refinement extracts more representative features and allows more effective classification.
-- Experiment results outperformed the state-of-the-art action classification (without few-shot learning) on a set of published datasets over a margin of about 5%.
+- Experiment results outperformed the state-of-the-art action classification (without few-shot learning) on a set of published datasets over a margin of about 5%.<br>
 
 Multi-Agent Sharing Bike Repositioning
 ======
 <span>
-*Full paper and oral presentation accepted by AAMAS-2021*
+*Full paper and oral presentation accepted by [AAMAS-2021](https://aamas2021.soton.ac.uk/programme/accepted-papers/)*
 </span>
 <br>
 <span class="links">
