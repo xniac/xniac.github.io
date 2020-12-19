@@ -17,15 +17,14 @@ He has rich experience in both the academics and the industry field. He conducte
 Research:
 ======
 <div>
-  <div style="width:40%; padding:5%">
+  <div style="width:40%; margin:5%">
   <img src="\images\Research1_img.png"
     alt="Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations"
     class="publogo img-fluid float-left rounded g" a="" align="left"/></div>
 
-  <div class="media-body">
+  <div class="media-body" style="width: 50%">
   <p align="left"><strong><a href="https://xniac.github.io/encgat" target="_blank">
   Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations</a></strong>
-  <!-- <span class="badge badge-danger">New!</span> -->
   <br> Wenlei Shi, Xinran Wei, Jia Zhang, <b>Xiaoyuan Ni</b>, Arthur Jiang, Jiang Bian and Tie-Yan Liu <br>
   <em> Full paper and oral accepted, AAMAS-2021</em> <br>
   <span class="links">
