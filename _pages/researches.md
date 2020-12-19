@@ -23,6 +23,15 @@ Semi-supervised Few Shot Action Recognition
 
 Multi-Agent Sharing Bike Repositioning
 ======
+<span>
+*Full paper and oral presentation accepted by AAMAS-2021*
+</span>
+<br>
+<span class="links">
+  <a href="https://xniac.github.io/encgat" target="_blank">[Website]</a>
+  <a href="https://github.com/microsoft/maro">[GitHub]</a>
+  </span>
+  <br>
 <br><img src = "\images\EncGat_Architecture.jpg"
     alt = "EncGat Architecture"
     height = "300" a=""
