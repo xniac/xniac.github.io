@@ -22,7 +22,7 @@ Research:
     alt="Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations"
     class="publogo img-fluid float-left rounded g" a="" align="left"/></div>
 
-  <div class="media-body" style="width: 50%">
+  <div class="media-body">
   <p align="left"><strong><a href="https://xniac.github.io/encgat" target="_blank">
   Cooperative Policy Learning with Pre-trained Heterogeneous Observation Representations</a></strong>
   <br> Wenlei Shi, Xinran Wei, Jia Zhang, <b>Xiaoyuan Ni</b>, Arthur Jiang, Jiang Bian and Tie-Yan Liu <br>
