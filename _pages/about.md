@@ -28,6 +28,7 @@ Research
   <br> Wenlei Shi, Xinran Wei, Jia Zhang, <b>Xiaoyuan Ni</b>, Arthur Jiang, Jiang Bian and Tie-Yan Liu <br>
   <em> Full paper and oral accepted, AAMAS-2021</em> <br>
   <span class="links">
+  <a href="https://arxiv.org/abs/2012.13099">[Paper]</a>
   <a href="https://xniac.github.io/encgat" target="_blank">[Project Page]</a>
   <a href="https://github.com/microsoft/maro">[GitHub]</a>
   </span> </p>
