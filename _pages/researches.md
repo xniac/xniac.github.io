@@ -28,6 +28,7 @@ Multi-Agent Sharing Bike Repositioning
 </span>
 <br>
 <span class="links">
+  <a href="https://arxiv.org/abs/2012.13099">[Paper]</a>
   <a href="https://xniac.github.io/encgat" target="_blank">[Website]</a>
   <a href="https://github.com/microsoft/maro">[GitHub]</a>
   </span>
